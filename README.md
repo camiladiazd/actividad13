@@ -1,6 +1,6 @@
 Capturas de JavaScript 
 
-ACTIVIDAF 1
+ACTIVIDAD 1
 ![imagen](https://github.com/user-attachments/assets/6e192e8f-3c20-4aca-af08-e48503075f81)
 ![imagen](https://github.com/user-attachments/assets/8f799db7-0cb4-49b5-81c9-8f0ed3f1bf4e)
 ![imagen](https://github.com/user-attachments/assets/35711ba1-b3d2-4a08-8fc3-b74e4848b66e)
